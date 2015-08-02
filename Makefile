@@ -5,5 +5,5 @@ EXEC = xor-algorithm
 all:
 	$(CC) src/main.cpp -o $(FLAGS)
 
-clear:
+clean:
 	rm -f $(CC)
