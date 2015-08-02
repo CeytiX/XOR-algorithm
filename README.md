@@ -1,7 +1,7 @@
 # XOR-algorithm
 [C++]
 
-An algorithm which encrypts/decrypts a file with a 1-bit key
+An algorithm which encrypts/decrypts a file with a 8-bit key
 
 ___
 
