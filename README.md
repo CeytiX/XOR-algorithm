@@ -28,9 +28,9 @@ There are 3 parameters:
 
 The key must be an array of 8 binary characters (e.g. 01101010)
 
-Now you can run your algorithm e.g.:`./xor-algorithm source target 01101010`
+Now you can run your algorithm e.g.:`./xor-algorithm no_encrypted encrypted 01101010`
 
-To decrypt, run the same program with the same key `./xor-algorithm target source 01101010` 
+To decrypt, run the same program with the same key `./xor-algorithm encrypted decrypted 01101010` 
 
 ___
 
