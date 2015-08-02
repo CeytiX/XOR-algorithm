@@ -26,7 +26,7 @@ There are 3 parameters:
 
 
 
-The key must be an array of 8 binary characters (e.g. 01101010)
+The key must be an array of 8 binary digits (e.g. 01101010)
 
 Now you can run your algorithm e.g.:`./xor-algorithm no_encrypted encrypted 01101010`
 
